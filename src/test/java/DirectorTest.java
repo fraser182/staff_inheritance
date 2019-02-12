@@ -1,7 +1,6 @@
 import org.junit.Before;
 import org.junit.Test;
-import staff.management.Director;
-import staff.management.Manager;
+import management.Director;
 
 import static org.junit.Assert.assertEquals;
 

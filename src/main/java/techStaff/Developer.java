@@ -1,6 +1,5 @@
-package staff.techStaff;
+package techStaff;
 
-import org.junit.Before;
 import staff.Employee;
 
 public class Developer extends Employee {
